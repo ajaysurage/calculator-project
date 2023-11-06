@@ -1,0 +1,13 @@
+.text-center{
+text-align: center;
+}
+
+.mx-auto{
+    margin: auto;
+}
+
+.items-center{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
